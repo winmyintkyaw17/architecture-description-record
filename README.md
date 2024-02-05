@@ -12,3 +12,6 @@ Why do we choose this solution?
 ## Consequences
 Pros – What becomes easier?
 Cons – What becomes more difficult?
+
+## Sample code
+Give some sample code related to this decision.
